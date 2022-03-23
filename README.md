@@ -10,4 +10,14 @@ O objetivo do projeto é recriar um readme atrativo aos recrutadores. Seguindo a
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
 <img src="https://user-images.githubusercontent.com/26858993/159814407-54748ee8-5f67-410f-b36f-a5909212f931.png" width="500px" />
- </div>
+</div>
+
+
+## Tecnologias utilizadas
+
+### Subdivisão 1
+
+
+### Subdivisão 2
+
+
